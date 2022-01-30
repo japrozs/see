@@ -4,8 +4,8 @@ This repository contains the code I commonly write while trying to improve my sk
 
 ## Code structures
 
-| File/folder | Description                                                               |
-| ----------- | ------------------------------------------------------------------------- |
-| `unions`    | `Learning about C structures and unions`                                  |
-| `server`    | `Write a multithreaded server in C using pthread`                         |
-| `mutex`     | `Understand about mutex locks and race conditions in concurrent programs` |
+| File/folder        | Description                                                               |
+| ------------------ | ------------------------------------------------------------------------- |
+| [`unions`](unions) | `Learning about C structures and unions`                                  |
+| [`server`](server) | `Write a multithreaded server in C using pthread`                         |
+| [`mutex`](mutex)   | `Understand about mutex locks and race conditions in concurrent programs` |
