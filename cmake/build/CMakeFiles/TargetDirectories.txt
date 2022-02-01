@@ -1,0 +1,3 @@
+/Users/pritpalsinghsaini/Documents/programming/c/cmake/build/CMakeFiles/cmake.dir
+/Users/pritpalsinghsaini/Documents/programming/c/cmake/build/CMakeFiles/edit_cache.dir
+/Users/pritpalsinghsaini/Documents/programming/c/cmake/build/CMakeFiles/rebuild_cache.dir
