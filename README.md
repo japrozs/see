@@ -1,6 +1,6 @@
 # see
 
-This repository contains the code I commonly write while trying to improve my skills in the `C programming language`.
+This repository contains the code I commonly write while trying to improve my skills in the `C programming language`(and `C++`).
 
 ## Code structures
 
@@ -13,3 +13,4 @@ This repository contains the code I commonly write while trying to improve my sk
 | [`bitfields`](mutex)     | `Bitfields and bit operators :: OP_A \| OP_B \| OP_C`                     |
 | [`cmake`](mutex)         | `Learn more about Cmake build system`                                     |
 | [`simulator`](simulator) | `Covid-19 Simulator written in C++`                                       |
+| [`malloc`](malloc)       | `Custom malloc allocator written in C`                                    |
