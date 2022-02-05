@@ -13,4 +13,5 @@ This repository contains the code I commonly write while trying to improve my sk
 | [`bitfields`](mutex)     | `Bitfields and bit operators :: OP_A \| OP_B \| OP_C`                     |
 | [`cmake`](mutex)         | `Learn more about Cmake build system`                                     |
 | [`simulator`](simulator) | `Covid-19 Simulator written in C++`                                       |
+| [`bgc`](bgc)             | `Solutions to Beej's guide to C programming`                              |
 | [`malloc`](malloc)       | `Custom malloc allocator written in C`                                    |
